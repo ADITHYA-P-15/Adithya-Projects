@@ -1,6 +1,6 @@
 # WeatherPredictionModel
 
-A machine learning project that leverages a **Random Forest Classifier** to predict weather conditions. This model is trained on historical weather.xlsx data and makes predictions on unseen test data to provide reliable weather forecasts.
+A machine learning project that leverages a **Random Forest Classifier** to predict weather conditions. This model is trained on historical weather data and makes predictions on unseen test data to provide reliable weather forecasts.
 
 ---
 
