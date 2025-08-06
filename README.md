@@ -1,6 +1,6 @@
 # WeatherPredictionModel
 
-A machine learning project that leverages a **Random Forest Classifier** to predict weather conditions. This model is trained on historical weather data and makes predictions on unseen test data to provide reliable weather forecasts.
+A machine learning project that leverages a **Random Forest Classifier** to predict weather conditions. This model is trained on historical weather.xlsx data and makes predictions on unseen test data to provide reliable weather forecasts.
 
 ---
 
@@ -8,7 +8,7 @@ A machine learning project that leverages a **Random Forest Classifier** to pred
 
 Weather prediction is a challenging task due to the complex and dynamic nature of atmospheric conditions. This project uses ensemble learning with Random Forests to capture non-linear relationships in the weather data, improving prediction accuracy.
 
-The model is trained on historical weather datasets and applied to the test dataset `weather_test_150` to generate predictions, which are saved as `weather_test_150_with_predictions.csv`.
+The model is trained on historical 'weather.xlsx' datasets and applied to the test dataset `weather_test_150.xlsx` to generate predictions, which are saved as `weather_test_150_with_predictions.xlsx`.
 
 ---
 
